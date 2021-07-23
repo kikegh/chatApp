@@ -1,0 +1,17 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Chat app done with nodejs and socketIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "socketio",
+    "chat",
+    "whatsapp"
+  ],
+  "author": "Jorge Sala",
+  "license": "MIT"
+}
